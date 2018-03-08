@@ -3,6 +3,16 @@ body {
   text-align: center;
 }
 
+.design {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
 h1 {
   color: white;
   font-size: 70px;
@@ -23,20 +33,16 @@ header {
   background-image: url("../images/the-flatiron-building.png");
 }
 
-.design {
-  background-image: url("../images/the-flatiron-building.png");
-  color: white;
-}
-
-footer {
-  background-color: dimgray;
-  text-align: left;
-}
-
 p {
   font-size: 14px;
 }
 
 nav a {
-  font-size 18px;
+  color: white;
+  font-size: 18px;
+}
+
+span {
+  color: white;
+  font-size: 11px;
 }
